@@ -1,7 +1,7 @@
 <h1> Radon Quote Machine </h1>
 
 <p> 
-  A Randon Qoute Machine é um gerador de citações aleatório construído com javascript vanilla.
+  A Randon Quote Machine é um gerador de citações aleatório construído com javascript vanilla.
 </p>
 
 <h2> 2. Funções e Métodos Utilizados </h2>
@@ -12,11 +12,11 @@
   <li>Math.floor;</li>
   <li>Math.random;</li>
   <li>indexOf;</li>
-  <li>Operador Ternário</li>
-  <li>Operadores Lógicos</li>
+  <li>Operador Ternário;</li>
+  <li>Operadores Lógicos;</li>
   <li>document.getElementById;</li>
-  <li>InnerHTML</li>
-  <li>Window.location.reload</li>
+  <li>InnerHTML;</li>
+  <li>Window.location.reload;</li>
   <li>Template String</li>
 
 <h2> Eventos </h2>
